@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 from numpy import *
 
 def step_gradient(b_current, m_current, points, learning_rate):
@@ -53,8 +53,3 @@ def run():
 
 if __name__ == '__main__':
     run()
-
-
-
-if __name__ == '__main__':
-	run()
